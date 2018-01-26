@@ -10,7 +10,6 @@ namespace XML
 {
     class Program
     {
-
         static void Main(string[] args)
         {
             /* Создайте XML- документ, представляющий информацию по определенной вариантом
