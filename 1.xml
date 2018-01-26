@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tovary>
+  <Tovar>
+    <Naim>Бензин</Naim>
+    <Price>20</Price>
+  </Tovar>
+  <Tovar>
+    <Naim>Gaz</Naim>
+    <Price>15</Price>
+  </Tovar>
+</Tovary>

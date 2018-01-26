@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Games>
+  <Game genre="Arcade">
+    <name>Pac-Man</name>
+    <releasedYear>1980</releasedYear>
+    <Programmers>Shigeo Funaki</Programmers>
+  </Game>
+  <Game genre="Simulator">
+    <name>Need for Speed</name>
+    <releasedYear>1994</releasedYear>
+    <Programmers>Brad Gour</Programmers>
+  </Game>
+  <Game genre="Shooter">
+    <name>Doom</name>
+    <releasedYear>1993</releasedYear>
+    <Programmers>John Carmack, John Romero, Dave Taylor</Programmers>
+  </Game>
+  <Game genre="Strategy">
+    <name>Heroes of Might and Magic</name>
+    <releasedYear>1995</releasedYear>
+    <Programmers>Phil Steinmeyer</Programmers>
+  </Game>
+  <Game genre="Sport" />
+  <Game genre="Quest">
+    <!--Out of sold-->
+  </Game>
+  <Game genre="For-kids">
+    <!--Out of sold-->
+  </Game>
+  <Game genre="For-girls">
+    <!--Out of sold-->
+  </Game>
+</Games>
